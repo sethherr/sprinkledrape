@@ -6,7 +6,7 @@ I decided on a tessellated [Peirce quincuncial projection](https://en.wikipedia.
 
 <a href="https://en.wikipedia.org/wiki/Peirce_quincuncial_projection#/media/File:Peirce_quincuncial_projection_SW_20W_tiles.JPG"><img src="examples/wikipedia.jpg" alt="Tessellated Peirce quincuncial projection from Wikipedia" width="200px"></a>
 
-Since custom, might as well go all in, programming ftw! [Link to page with all the examples](#)
+Since custom, might as well go all in, programming ftw! [Link to page with all the examples](https://sethherr.github.io/sprinkledrape)
 
 ## Tessellated map
 
@@ -16,6 +16,9 @@ Some resources:
 
 - [Mike Bostock's Peirce Quincuncial example](https://bl.ocks.org/mbostock/4310087)
 - [Jason Davies tessellated beauty](https://www.jasondavies.com/maps/peirce/)
+
+
+First - [I copied](https://sethherr.github.io/sprinkledrape/jasondavies) what Jason Davies did (including stealing [his topojson](https://www.jasondavies.com/maps/world-50m.json)).
 
 ## What do the maps show?
 
