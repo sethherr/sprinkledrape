@@ -2,11 +2,11 @@ I wanted a shower curtain with a map of the world with [a projection](https://xk
 
 I couldn't find one (in my lazy search) that was an interesting projection and covered the whole curtain. Since it's possible to print anything because the internet, I decided to make my own.
 
-I decided on a tessellated [Peirce quincuncial projection](https://en.wikipedia.org/wiki/Peirce_quincuncial_projection), e.g.
+I decided on a tessellated [Peirce Quincuncial projection](https://en.wikipedia.org/wiki/Peirce_quincuncial_projection), e.g.
 
 <a href="https://en.wikipedia.org/wiki/Peirce_quincuncial_projection#/media/File:Peirce_quincuncial_projection_SW_20W_tiles.JPG"><img src="examples/wikipedia.jpg" alt="Tessellated Peirce quincuncial projection from Wikipedia" width="200px"></a>
 
-Since custom, might as well go all in, programming ftw! [Link to page with all the examples](https://sethherr.github.io/sprinkledrape)
+[Since custom, might as well go all in, programming ftw](https://sethherr.github.io/sprinkledrape)
 
 ## Tessellated map
 
@@ -28,3 +28,8 @@ It would be cool if the maps each showed something different and interesting. So
 - Water
 - Population
 - Wealth
+
+
+------
+
+Disclaimer: I'm a map dilettante and know nothing about d3. Everything here is done wrong.
